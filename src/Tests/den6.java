@@ -2,5 +2,7 @@ package Tests;
 
 public class den6 {
 
-//gmdflşhmdlhmd
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
 }
